@@ -107,3 +107,17 @@ body {
         width: 22rem !important;
     }
 }
+
+@media screen and (max-width: 393px) {
+    .text {
+        font-size: 55px !important;
+    }
+    
+    .text-container {
+        margin-top: 70% !important;
+        margin-left: -0.25% !important;
+    }
+    .sofa {
+        width: 25rem !important;
+    }
+}
