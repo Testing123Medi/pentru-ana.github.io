@@ -65,6 +65,13 @@ body {
     }
     .text-container {
         margin-top: 30% !important;
+        margin-left: -1% !important;
+    }
+    .sofa-container {
+        margin-left: -7% !important;
+    }
+    .sofa {
+        width: 22rem !important;
     }
 }
 
@@ -88,7 +95,15 @@ body {
     .text {
         font-size: 50px !important;
     }
+    
     .text-container {
         margin-top: 40% !important;
+        margin-left: -1% !important;
+    }
+    .sofa-container {
+        margin-left: -7% !important;
+    }
+    .sofa {
+        width: 22rem !important;
     }
 }
